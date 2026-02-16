@@ -25,7 +25,7 @@ data "archive_file" "chapter04" {
 resource "aws_lambda_function" "chapter04" {
   function_name    = "chapter04-function"
   handler          = "app.lambda_handler"
-  runtime          = "python3.12"
+  runtime          = "python3.13"
   role             = aws_iam_role.lambda_execution_role.arn
   filename         = "${path.module}/function/dist/chapter04.zip"
   source_code_hash = data.archive_file.chapter04.output_base64sha256
