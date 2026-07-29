@@ -40,6 +40,14 @@ This workshop covers the following AWS services (in no particular order):
 8. [Run Static Analysis](docs/08-linter.md)
 9. [Learn the Basics of State Files](docs/09-tfstate.md)
 
+## LocalStack Workshop Series
+
+Check out the other workshops in the series!
+
+| [![Application Development on AWS](https://raw.githubusercontent.com/kakakakakku/aws-application-workshop-using-localstack/main/images/cover-en.png)](https://github.com/kakakakakku/aws-application-workshop-using-localstack) | [![Serverless Patterns on AWS](https://raw.githubusercontent.com/kakakakakku/aws-serverless-pattern-workshop-using-localstack/main/images/cover-en.png)](https://github.com/kakakakakku/aws-serverless-pattern-workshop-using-localstack) | [![Pulumi on AWS](https://raw.githubusercontent.com/kakakakakku/aws-pulumi-workshop-using-localstack/main/images/cover-en.png)](https://github.com/kakakakakku/aws-pulumi-workshop-using-localstack) |
+|:---:|:---:|:---:|
+| [Application Development on AWS](https://github.com/kakakakakku/aws-application-workshop-using-localstack) | [Serverless Patterns on AWS](https://github.com/kakakakakku/aws-serverless-pattern-workshop-using-localstack) | [Pulumi on AWS](https://github.com/kakakakakku/aws-pulumi-workshop-using-localstack) |
+
 ## Sponsors
 
 If you find this workshop useful, consider supporting my work — it keeps the workshops maintained and motivates new ones 😃
